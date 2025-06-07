@@ -13,7 +13,7 @@ This module simply change both `persist.sys.hls.rom.operator` and `sys.hls.rom.o
 3) You will be prompted what carrier would you like to change into (VOL+, VOL-, Side Button ABORT)
 4) Reboot the Device and see your new carrier specific bootanimation
 
-Depending on your chosen carrier, you may see new apps installed/removed as other carriers originally shipped it with their proprietary apps.
+Depending on your chosen carrier, you may see new apps installed as other carriers originally shipped it with their proprietary apps.
 
 # Description & Discovery
 ALT MIVE Style Folder is a South Korea-exclusive flip phone that runs on Android 12 Go
