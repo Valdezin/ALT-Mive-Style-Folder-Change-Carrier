@@ -1,0 +1,6 @@
+id=hls-operator-switcher
+name=HLS Operator Switcher
+version=1.0
+versionCode=1
+author=Valdezin
+description=ALT MIVE Style Folder: Switch between LGU, SKT, and KT ROM operators via Magisk install
