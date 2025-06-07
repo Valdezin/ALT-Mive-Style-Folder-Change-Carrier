@@ -18,7 +18,7 @@ ALT MIVE Style Folder is a South Korea-exclusive flip phone that runs on Android
 
 The phone was exclusive to 3 telecoms in South Korea: LG U+, SK Telecom, and KT
 
-The discovery of 3 folder named `LGU, SKT, and KT` in the `ROOT` folder `system/media` led me to believe that the bootanimation can be changed if a particular variable is set as such.
+The discovery of these 3 folders named `LGU, SKT, and KT` in the `ROOT` folder `system/media` led me to believe that the bootanimation can be changed if a particular variable is set as such.
 
 Since this is originally a LG U+ device, by using `getprop | grep -i lgu`, I was able to narrow down the variables as:
 `thor:/ # getprop | grep -i lgu`
